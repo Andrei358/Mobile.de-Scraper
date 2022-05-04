@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "myd/l2IVhlH3asraENQqnLljsvirRJ8y5MZpRLjHEM7eJqDz1s0vuKvPdNiSWMFy8fnrEHQywpOq/4CeOIXYJg==",
+  "dgSpecHash": "/ItlKy1HfdKFj293fR4b0SUBTXaMzhkkcK4YYkzsAVGtDaTJ9Ymqu5S03fUU/OejhPMqA3fwImcAWs9KcdOWaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petrino\\Documents\\GitHub\\Mobile.de-Scraper\\.local\\",
+  "projectFilePath": "C:\\Users\\Petrino\\Documents\\GitHub\\Mobile.de-Scraper2\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Petrino\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Petrino\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

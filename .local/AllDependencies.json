@@ -7564,15 +7564,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andrei Mihailescu\\.nuget\\packages\\": {}
+    "C:\\Users\\Petrino\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "MobileCarScraper",
       "projectName": "MobileCarScraper",
-      "projectPath": "C:\\Users\\Andrei Mihailescu\\Documents\\UiPath\\MobileCarScraper\\.local",
-      "packagesPath": "C:\\Users\\Andrei Mihailescu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrei Mihailescu\\Documents\\UiPath\\MobileCarScraper\\.local"
+      "projectPath": "C:\\Users\\Petrino\\Documents\\GitHub\\Mobile.de-Scraper\\.local",
+      "packagesPath": "C:\\Users\\Petrino\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Petrino\\Documents\\GitHub\\Mobile.de-Scraper\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7598,7 +7598,7 @@
             "version": "[21.10.5, 21.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Andrei Mihailescu\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Petrino\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
